@@ -1,0 +1,323 @@
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
+1;PRC;RELIEF;Food Items;2-3 days food ration (standard);129;12924;Villa Hermosa;Finished;89;Families
+2;PRC;RELIEF;Food Items;2-3 days food ration (standard);129;12926;Nagtupacan;Finished;98;Families
+3;PRC;RELIEF;Food Items;2-3 days food ration (standard);133;13303;Nangalisan;Finished;252;Families
+4;PRC;RELIEF;Food Items;2-3 days food ration (standard);133;13315;Balballayang;Finished;180;Families
+5;PRC;WASH;WASH;Bottled Water;129;12924;Saoat;Finished;32;Individuals
+6;PRC;WASH;WASH;Bottled Water;129;12924;Quinsoriano;Finished;100;Individuals
+7;PRC;WASH;WASH;Bottled Water;129;12926;Nagtupacan;Finished;45;Individuals
+8;PRC;WASH;WASH;Bottled Water;129;12926;Maynganay Norte;Finished;73;Individuals
+9;PRC;WASH;WASH;Bottled Water;133;13306;Agdeppa;Finished;233;Individuals
+10;PRC;WASH;WASH;Bottled Water;133;13310;Salcedo;Finished;40;Individuals
+11;PRC;WASH;WASH;Bottled Water;133;13310;Alcala;Finished;48;Individuals
+12;PRC;WASH;WASH;Bottled Water;133;13310;Sto. Domingo Sur;Finished;50;Individuals
+13;PRC;WASH;WASH;Bottled Water;133;13310;Rimos #5;Finished;61;Individuals
+14;PRC;WASH;WASH;Bottled Water;133;13310;Rimos #2;Finished;168;Individuals
+15;PRC;WASH;WASH;Bottled Water;133;13310;Rimos #4;Finished;175;Individuals
+16;PRC;WASH;WASH;Bottled Water;133;13310;Rimos #4;Finished;192;Individuals
+17;PRC;WASH;WASH;Bottled Water;133;13310;Rimos #5;Finished;210;Individuals
+18;PRC;WASH;WASH;Bottled Water;133;13310;Suyo;Finished;288;Individuals
+19;PRC;WASH;WASH;Bottled Water;133;13310;Rimos #4;Finished;374;Individuals
+20;PRC;HEALTH;Safety;BP Taking;129;12924;Villa Hermosa;Finished;17;Individuals
+21;PRC;HEALTH;Safety;BP Taking;129;12924;Villa Hermosa;Finished;25;Individuals
+22;PRC;HEALTH;Safety;BP Taking;133;13310;;Finished;5;Individuals
+23;PRC;HEALTH;Safety;BP Taking;133;13310;;Finished;7;Individuals
+24;PRC;HEALTH;Safety;BP Taking;133;13310;;Finished;8;Individuals
+25;PRC;HEALTH;Safety;BP Taking;133;13310;;Finished;8;Individuals
+26;PRC;HEALTH;Safety;BP Taking;133;13310;;Finished;11;Individuals
+27;PRC;HEALTH;Safety;BP Taking;133;13310;;Finished;14;Individuals
+28;PRC;HEALTH;Safety;BP Taking;133;13310;;Finished;17;Individuals
+29;PRC;HEALTH;Safety;BP Taking;133;13310;Rimos #4;Finished;86;Individuals
+30;PRC;HEALTH;Safety;BP Taking;133;13310;Rimos #5;Finished;120;Individuals
+31;PRC;WELFARE;ready to Eat Meals;Bread;129;12924;Saoat;Finished;32;Individuals
+32;PRC;WELFARE;ready to Eat Meals;Bread;129;12924;Quinsoriano;Finished;81;Individuals
+33;PRC;WELFARE;ready to Eat Meals;Bread;129;12924;Villa Hermosa;Finished;89;Individuals
+34;PRC;WELFARE;ready to Eat Meals;Bread;129;12924;Villa Hermosa;Finished;109;Individuals
+35;PRC;WELFARE;ready to Eat Meals;Bread;129;12926;Tinaan;Finished;20;Individuals
+36;PRC;WELFARE;Ready to Eat Meals;Bread;129;12926;Nagtupacan;Finished;45;Individuals
+37;PRC;WELFARE;Ready to Eat Meals;Bread;129;12926;Maynganay Norte;Finished;73;Individuals
+38;PRC;WELFARE;ready to Eat Meals;Bread;129;12926;Cabaroan;Finished;85;Individuals
+39;PRC;WELFARE;ready to Eat Meals;Bread;129;12926;Nagtupacan;Finished;98;Individuals
+40;PRC;WELFARE;PSP;Child Friendly Activity;129;12924;Villa Hermosa;Finished;5;Individuals
+41;PRC;WELFARE;PSP;Child Friendly Activity;133;13310;Rimos #4;Finished;24;Individuals
+42;PRC;WELFARE;PSP;Child Friendly Activity;133;13310;Rimos #5;Finished;48;Individuals
+43;PRC;WELFARE;PSP;Child Friendly Activity;133;13310;Rimos #5;Finished;55;Individuals
+44;PRC;RELIEF;Non Food Items;clothes;133;13306;Agdeppa;Finished;100;Families
+45;PRC;RELIEF;Non Food Items;clothes;133;13310;Rimos #4;Finished;8;Families
+46;PRC;RELIEF;Non Food Items;clothes;133;13310;Rimos #5;Finished;45;Families
+47;PRC;RELIEF;Non Food Items;clothes;133;13310;Salcedo;Finished;50;Families
+48;PRC;RELIEF;Non Food Items;clothes;133;13310;Rimos #1;Finished;55;Families
+49;PRC;RELIEF;Non Food Items;clothes;133;13310;Rimos #2;Finished;60;Families
+50;PRC;RELIEF;Non Food Items;clothes;133;13310;Rimos #3;Finished;67;Families
+51;PRC;RELIEF;Non Food Items;clothes;133;13310;Rimos #4;Finished;70;Families
+52;PRC;RELIEF;Non Food Items;clothes;133;13310;Rimos #5;Finished;72;Families
+53;PRC;RELIEF;Non Food Items;clothes;133;13310;Alcala;Finished;122;Families
+54;PRC;HEALTH;Health;face mask;129;12914;Nanguneg West;Finished;150;Individuals
+55;PRC;HEALTH;Health;face mask;129;12924;Quinsoriano;Finished;30;Individuals
+56;PRC;HEALTH;Health;face mask;129;12926;Nagtupacan;Finished;45;Individuals
+57;PRC;HEALTH;Health;face mask;129;12926;Maynganay Norte;Finished;73;Individuals
+58;PRC;HEALTH;Health;face mask;129;12926;Poblacion;Finished;150;Individuals
+59;PRC;HEALTH;Health;Face mask;133;13310;Paraoir;Finished;2;Individuals
+60;PRC;HEALTH;Health;Face mask;133;13310;Barraca;Finished;5;Individuals
+61;PRC;HEALTH;Health;Face mask;133;13310;Alzate;Finished;6;Individuals
+62;PRC;HEALTH;Health;Face mask;133;13310;Caggao;Finished;10;Individuals
+63;PRC;HEALTH;Health;Face mask;133;13310;Rimos #4;Finished;11;Individuals
+64;PRC;HEALTH;Health;Face mask;133;13310;Rimos #2;Finished;14;Individuals
+65;PRC;HEALTH;Health;Face mask;133;13310;Rimos #3;Finished;19;Individuals
+66;PRC;HEALTH;Health;Face mask;133;13310;Rimos #5;Finished;20;Individuals
+67;PRC;HEALTH;Health;Face mask;133;13310;Paratong Norte;Finished;20;Individuals
+68;PRC;HEALTH;Health;Face mask;133;13310;Paratong #3;Finished;25;Individuals
+69;PRC;HEALTH;Health;Face mask;133;13310;Bumbuneg;Finished;27;Individuals
+70;PRC;HEALTH;Health;Face mask;133;13310;Quintarong;Finished;28;Individuals
+71;PRC;HEALTH;Health;Face mask;133;13310;Rimos #5;Finished;33;Individuals
+72;PRC;HEALTH;Health;Face mask;133;13310;Rimos #4;Finished;34;Individuals
+73;PRC;HEALTH;Health;Face mask;133;13310;Paraoir;Finished;45;Individuals
+74;PRC;HEALTH;Health;Face mask;133;13310;Bucao;Finished;47;Individuals
+75;PRC;HEALTH;Health;Face mask;133;13310;Paratong #4;Finished;50;Individuals
+76;PRC;HEALTH;Health;Face mask;133;13310;Paratong Norte;Finished;50;Individuals
+77;PRC;HEALTH;Health;Face mask;133;13310;Rissing;Finished;50;Individuals
+78;PRC;HEALTH;Health;Face mask;133;13310;Paratong #4;Finished;55;Individuals
+79;PRC;HEALTH;Health;Face mask;133;13310;;Finished;63;Individuals
+80;PRC;HEALTH;Health;Face mask;133;13310;Sto. Domingo Norte;Finished;100;Individuals
+81;PRC;HEALTH;Health;Face mask;133;13310;Rimos #5;Finished;100;Individuals
+82;PRC;HEALTH;Health;Face mask;133;13310;Alcala;Finished;122;Individuals
+83;PRC;HEALTH;Health;Face mask;133;13310;Rimos #5;Finished;161;Individuals
+84;PRC;HEALTH;Health;Face mask;133;13310;Rimos #5;Finished;250;Individuals
+85;PRC;HEALTH;Health;Face mask;133;13315;Balballayang;Finished;60;Individuals
+86;PRC;HEALTH;Health;face mask;215;21508;Tabbac;Finished;300;Individuals
+87;PRC;HEALTH;Safety;First Aid Management;133;13310;;Finished;2;Individuals
+88;PRC;HEALTH;Safety;First Aid Management;133;13310;Rimos #4;Finished;5;Individuals
+89;PRC;HEALTH;Safety;First Aid Management;133;13310;Rimos #5;Finished;7;Individuals
+90;PRC;HEALTH;Safety;First Aid Management;133;13310;Rimos #4;Finished;1;Individual
+91;PRC;HEALTH;Safety;First Aid Station;133;13310;;Finished;1;Station
+92;PRC;HEALTH;Safety;First Aid Station;133;13310;;Finished;1;Station
+93;PRC;HEALTH;Safety;First Aid Station;133;13310;;Finished;1;Station
+94;PRC;HEALTH;Safety;First Aid Station;133;13310;;Finished;1;Station
+95;PRC;HEALTH;Safety;First Aid Station;133;13310;;Finished;1;Station
+96;PRC;HEALTH;Safety;First Aid Station;133;13310;;Finished;1;Station
+97;PRC;HEALTH;Safety;First Aid Station;133;13310;;Finished;1;Station
+98;PRC;HEALTH;Safety;First Aid Station;133;13310;Rimos #5;Finished;1;Station
+99;PRC;HEALTH;Safety;First Aid Station;133;13310;Rimos #4;Finished;1;Station
+100;PRC;HEALTH;Safety;First Aid Station;133;13310;Rimos #4;Finished;1;Station
+101;PRC;WELFARE;ready to Eat Meals;Hotmeals;129;12914;Nanguneg West;Finished;300;Individuals
+102;PRC;WELFARE;ready to Eat Meals;Hotmeals;129;12924;Quinsoriano;Finished;100;Individuals
+103;PRC;WELFARE;ready to Eat Meals;Hotmeals;129;12926;Poblabion;Finished;300;Individuals
+104;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13306;;Finished;14;Individuals
+105;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13306;;Finished;39;Individuals
+106;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13306;;Finished;92;Individuals
+107;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13306;Agdeppa;Finished;208;Individuals
+108;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13306;Nagsabaran;Finished;230;Individuals
+109;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13306;Paratong Norte;Finished;408;Individuals
+110;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13306;Paratong #4;Finished;593;Individuals
+111;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Sto Domingo Norte;Finished;3;Individuals
+112;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Rimos I;Finished;7;Individuals
+113;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Magallanes;Finished;18;Individuals
+114;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Sto Domingo Sur;Finished;40;Individuals
+115;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Salcedo;Finished;40;Individuals
+116;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Alcala;Finished;48;Individuals
+117;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Rimos #2;Finished;48;Individuals
+118;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Sto. Domingo Sur;Finished;51;Individuals
+119;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Rimos #5;Finished;61;Individuals
+120;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Rimos #5;Finished;96;Individuals
+121;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Rimos #5;Finished;210;Individuals
+122;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Rimos #4;Finished;216;Individuals
+123;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Rimos #3;Finished;331;Individuals
+124;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Suyo;Finished;360;Individuals
+125;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Rimos #4;Finished;374;Individuals
+126;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Rimos #4;Finished;411;Individuals
+127;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Rimos #3;Finished;469;Individuals
+128;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Sto. Domingo Norte;Finished;541;Individuals
+129;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Rimos #4;Finished;565;Individuals
+130;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13310;Rimos #2;Finished;700;Individuals
+131;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13314;Poro;Finished;6;Individuals
+132;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13314;Carlatan;Finished;6;Individuals
+133;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13314;Lingsat;Finished;7;Individuals
+134;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13314;Poro;Finished;8;Individuals
+135;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13314;Catbangen;Finished;10;Individuals
+136;PRC;WELFARE;Ready to Eat Meals;Hotmeals;133;13314;Poro;Finished;16;Individuals
+137;PRC;WELFARE;Ready to Eat Meals;Hotmeals;155;15518;Herrero-Perez;Finished;87;Individuals
+138;PRC;WELFARE;Ready to Eat Meals;Hotmeals;155;15518;Herrero-Perez;Finished;107;Individuals
+139;PRC;WELFARE;Ready to Eat Meals;Hotmeals;155;15518;Calmay;Finished;176;Individuals
+140;PRC;WELFARE;Ready to Eat Meals;Hotmeals;215;21508;Brgy. Tabbac;Finished;360;Individuals
+141;PRC;RELIEF;Non Food Items;Hygiene Kit;129;12914;Cagayungan;Finished;3;Families
+142;PRC;RELIEF;Non Food Items;Hygiene Kit;129;12914;San Antonio;Finished;6;Families
+143;PRC;RELIEF;Non Food Items;Hygiene Kit;129;12924;Villa Hermosa;Finished;2;Families
+144;PRC;RELIEF;Non Food Items;Hygiene Kit;129;12924;Saoat;Finished;32;Families
+145;PRC;RELIEF;Non Food Items;Hygiene Kit;129;12924;Quinsoriano;Finished;81;Families
+146;PRC;RELIEF;Non Food Items;Hygiene Kit;129;12924;Villa Hermosa;Finished;109;Families
+147;PRC;RELIEF;Non Food Items;Hygiene Kit;129;12926;Tinaan;Finished;20;Families
+148;PRC;RELIEF;Non Food Items;Hygiene Kit;129;12926;Cabaroan;Finished;85;Families
+149;PRC;RELIEF;Non Food Items;Hygiene Kit;133;13310;Rimos #4;Finished;3;Families
+150;PRC;RELIEF;Non Food Items;Hygiene Kit;133;13310;Rimos #4;Finished;5;Families
+151;PRC;RELIEF;Non Food Items;Hygiene Kit;133;13310;Rimos #4;Finished;6;Families
+152;PRC;RELIEF;Non Food Items;Hygiene Kit;133;13310;Busel-Busel;Finished;7;Families
+153;PRC;RELIEF;Non Food Items;Hygiene Kit;133;13310;Cantoria #2;Finished;9;Families
+154;PRC;RELIEF;Non Food Items;Hygiene Kit;133;13310;Barrientos;Finished;9;Families
+155;PRC;RELIEF;Non Food Items;Hygiene Kit;133;13310;Salcedo;Finished;11;Families
+156;PRC;RELIEF;Non Food Items;Hygiene Kit;133;13310;Rimos #4;Finished;169;Families
+157;PRC;RELIEF;Non Food Items;Hygiene Kit;133;13310;Rimos #5;Finished;331;Families
+158;PRC;RELIEF;Non Food Items;Hygiene Kit;155;15518;Herrero-Perez;Finished;33;Families
+159;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141103;;Finished;40;Families
+160;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141103;Poblacion;Finished;60;Families
+161;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141105;;Finished;7;Families
+162;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141106;Ucab;Finished;2;Families
+163;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141106;Loacan;Finished;4;Families
+164;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141106;Poblacion;Finished;6;Families
+165;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141106;Virac;Finished;6;Families
+166;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141106;Tuding;Finished;12;Families
+167;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141109;Poblacion;Finished;5;Families
+168;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141110;Cruz;Finished;2;Families
+169;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141110;Poblacion;Finished;3;Families
+170;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141110;Sablan;Finished;5;Families
+171;PRC;RELIEF;Non Food Items;Hygiene Kit;1411;141110;Ambiong;Finished;6;Families
+172;PRC;WASH;WASH;Hygiene Promotion;129;12924;Saoat;Finished;32;Individuals
+173;PRC;WASH;WASH;Hygiene Promotion;129;12924;Quinsoriano;Finished;81;Individuals
+174;PRC;WASH;WASH;Hygiene Promotion;129;12924;Villa Hermosa;Finished;86;Individuals
+175;PRC;WASH;WASH;Hygiene Promotion;129;12926;Tinaan;Finished;20;Individuals
+176;PRC;WASH;WASH;Hygiene Promotion;129;12926;Nagtupacan;Finished;45;Individuals
+177;PRC;WASH;WASH;Hygiene Promotion;129;12926;Maynganay Norte;Finished;73;Individuals
+178;PRC;WASH;WASH;Hygiene Promotion;129;12926;Cabaroan;Finished;85;Individuals
+179;PRC;WASH;WASH;Hygiene Promotion;129;12926;Nagtupacan;Finished;98;Individuals
+180;PRC;WASH;WASH;Hygiene Promotion;133;13305;Paraoir;Finished;15;Individuals
+181;PRC;WASH;WASH;Hygiene Promotion;133;13306;;Finished;14;Individuals
+182;PRC;WASH;WASH;Hygiene Promotion;133;13306;Quintarong;Finished;15;Individuals
+183;PRC;WASH;WASH;Hygiene Promotion;133;13306;Rissing;Finished;17;Individuals
+184;PRC;WASH;WASH;Hygiene Promotion;133;13306;Paratong Norte;Finished;20;Individuals
+185;PRC;WASH;WASH;Hygiene Promotion;133;13306;Nagsabaran;Finished;23;Individuals
+186;PRC;WASH;WASH;Hygiene Promotion;133;13306;Paratong #3;Finished;25;Individuals
+187;PRC;WASH;WASH;Hygiene Promotion;133;13306;Barraca;Finished;36;Individuals
+188;PRC;WASH;WASH;Hygiene Promotion;133;13306;;Finished;39;Individuals
+189;PRC;WASH;WASH;Hygiene Promotion;133;13306;Paratong #4;Finished;50;Individuals
+190;PRC;WASH;WASH;Hygiene Promotion;133;13306;;Finished;92;Individuals
+191;PRC;WASH;WASH;Hygiene Promotion;133;13310;Rimos #2;Finished;16;Individuals
+192;PRC;WASH;WASH;Hygiene Promotion;133;13310;Rimos #3;Finished;19;Individuals
+193;PRC;WASH;WASH;Hygiene Promotion;133;13310;Rimos #4;Finished;20;Individuals
+194;PRC;WASH;WASH;Hygiene Promotion;133;13310;Salcedo;Finished;30;Individuals
+195;PRC;WASH;WASH;Hygiene Promotion;133;13310;Rimos #5;Finished;38;Individuals
+196;PRC;WASH;WASH;Hygiene Promotion;133;13310;Rimos #4;Finished;39;Individuals
+197;PRC;WASH;WASH;Hygiene Promotion;133;13310;Rimos #5;Finished;48;Individuals
+198;PRC;WASH;WASH;Hygiene Promotion;133;13315;Bumbuneg;Finished;15;Individuals
+199;PRC;WASH;WASH;Hygiene Promotion;133;13315;Bucao;Finished;39;Individuals
+200;PRC;WASH;WASH;Hygiene Promotion;155;15518;Herrero-Perez;Finished;107;Individuals
+201;PRC;WASH;WASH;Hygiene Promotion;155;15518;Calmay;Finished;176;Individuals
+202;PRC;RELIEF;Non Food Items;Jerry Can;129;12914;Cagayungan;Finished;3;Families
+203;PRC;RELIEF;Non Food Items;Jerry Can;129;12914;San Antonio;Finished;6;Families
+204;PRC;RELIEF;Non Food Items;Jerry Can;129;12924;Villa Hermosa;Finished;2;Families
+205;PRC;RELIEF;Non Food Items;Jerry Can;129;12924;Saoat;Finished;32;Families
+206;PRC;RELIEF;Non Food Items;Jerry Can;129;12924;Quinsoriano;Finished;81;Families
+207;PRC;RELIEF;Non Food Items;Jerry Can;129;12924;Villa Hermosa;Finished;109;Families
+208;PRC;RELIEF;Non Food Items;Jerry Can;129;12926;Tinaan;Finished;20;Families
+209;PRC;RELIEF;Non Food Items;Jerry Can;129;12926;Cabaroan;Finished;85;Families
+210;PRC;RELIEF;Non Food Items;Jerry Can;133;13310;Rimos #4;Finished;169;Families
+211;PRC;RELIEF;Non Food Items;Jerry Can;133;13310;Rimos #5;Finished;331;Families
+212;PRC;RELIEF;Non Food Items;Kitchen Set;129;12914;Cagayungan;Finished;3;Families
+213;PRC;RELIEF;Non Food Items;Kitchen Set;129;12914;San Antonio;Finished;6;Families
+214;PRC;RELIEF;Non Food Items;Kitchen Set;129;12924;Villa Hermosa;Finished;2;Families
+215;PRC;RELIEF;Non Food Items;Kitchen Set;129;12924;Saoat;Finished;32;Families
+216;PRC;RELIEF;Non Food Items;Kitchen Set;129;12924;Quinsoriano;Finished;81;Families
+217;PRC;RELIEF;Non Food Items;Kitchen Set;129;12924;Villa Hermosa;Finished;109;Families
+218;PRC;RELIEF;Non Food Items;Kitchen Set;129;12926;Tinaan;Finished;20;Families
+219;PRC;RELIEF;Non Food Items;Kitchen Set;129;12926;Nagtupacan;Finished;45;Families
+220;PRC;RELIEF;Non Food Items;Kitchen Set;129;12926;Maynganay Norte;Finished;73;Families
+221;PRC;RELIEF;Non Food Items;Kitchen Set;129;12926;Cabaroan;Finished;85;Families
+222;PRC;RELIEF;Non Food Items;Kitchen Set;133;13310;Rimos #4;Finished;169;Families
+223;PRC;RELIEF;Non Food Items;Kitchen Set;133;13310;Rimos #5;Finished;331;Families
+224;PRC;HEALTH;Safety;Patient Transport;1411;141110;;Finished;1;Individual
+225;PRC;WELFARE;PSP;Psychological First Aid;129;12924;Villa Hermosa;Finished;2;Individuals
+226;PRC;WELFARE;PSP;Psychological First Aid;129;12924;Quinsoriano;Finished;10;Individuals
+227;PRC;WELFARE;PSP;Psychological First Aid;129;12926;Nagtupacan;Finished;3;Individuals
+228;PRC;WELFARE;PSP;Psychological First Aid;129;12926;Tinaan;Finished;10;Individuals
+229;PRC;WELFARE;PSP;Psychological First Aid;133;13303;Nangalisan;Finished;7;Individuals
+230;PRC;WELFARE;PSP;Psychological First Aid;133;13306;Nagsabaran;Finished;1;Individual
+231;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Rimos #1;Finished;2;Individuals
+232;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Rimos #5;Finished;2;Individuals
+233;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Rimos #2;Finished;3;Individuals
+234;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Rimos #3;Finished;3;Individuals
+235;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Rimos #4;Finished;3;Individuals
+236;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Rimos #5;Finished;5;Individuals
+237;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Magallanes;Finished;6;Individuals
+238;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Rimos #3;Finished;6;Individuals
+239;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Rimos I;Finished;7;Individuals
+240;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Rimos #4;Finished;9;Individuals
+241;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Sto Domingo Sur;Finished;11;Individuals
+242;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Rimos #5;Finished;11;Individuals
+243;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Sto Domingo Norte;Finished;1;Individual
+244;PRC;WELFARE;PSP;Psychological First Aid;133;13310;;Finished;1;Individual
+245;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Alcala;Finished;33;Individuals
+246;PRC;WELFARE;PSP;Psychological First Aid;133;13310;Rimos #4;Finished;42;Individuals
+247;PRC;WELFARE;PSP;Psychological First Aid;215;21508;Brgy San Lorenzo;Finished;2;Individuals
+248;PRC;WELFARE;PSP;Psychological First Aid;215;21508;Brgy. Tabbac;Finished;52;Individuals
+249;PRC;WELFARE;PSP;Psychological First Aid;1411;141110;;Finished;4;Individuals
+250;PRC;HEALTH;Safety;Rescued;129;12922;Pasungol;Finished;6;Individuals
+251;PRC;RELIEF;Non Food Items;SK: Blankets;129;12914;Cagayungan;Finished;3;Families
+252;PRC;RELIEF;Non Food Items;SK: Blankets;129;12914;San Antonio;Finished;6;Families
+253;PRC;RELIEF;Non Food Items;SK: Blankets;129;12924;Villa Hermosa;Finished;2;Families
+254;PRC;RELIEF;Non Food Items;SK: Blankets;129;12924;Saoat;Finished;32;Families
+255;PRC;RELIEF;Non Food Items;SK: Blankets;129;12924;Quinsoriano;Finished;81;Families
+256;PRC;RELIEF;Non Food Items;SK: Blankets;129;12924;Villa Hermosa;Finished;109;Families
+257;PRC;RELIEF;Non Food Items;SK: Blankets;129;12926;Tinaan;Finished;20;Families
+258;PRC;RELIEF;Non Food Items;SK: Blankets;129;12926;Cabaroan;Finished;85;Families
+259;PRC;RELIEF;Non Food Items;SK: Blankets;133;13310;Rimos #4;Finished;169;Families
+260;PRC;RELIEF;Non Food Items;SK: Blankets;133;13310;Rimos #5;Finished;331;Families
+261;PRC;RELIEF;Non Food Items;SK: Mats;129;12914;Cagayungan;Finished;3;Families
+262;PRC;RELIEF;Non Food Items;SK: Mats;129;12914;San Antonio;Finished;6;Families
+263;PRC;RELIEF;Non Food Items;SK: Mats;129;12924;Villa Hermosa;Finished;2;Families
+264;PRC;RELIEF;Non Food Items;SK: Mats;129;12924;Saoat;Finished;32;Families
+265;PRC;RELIEF;Non Food Items;SK: Mats;129;12924;Quinsoriano;Finished;81;Families
+266;PRC;RELIEF;Non Food Items;SK: Mats;129;12924;Villa Hermosa;Finished;109;Families
+267;PRC;RELIEF;Non Food Items;SK: Mats;129;12926;Tinaan;Finished;20;Families
+268;PRC;RELIEF;Non Food Items;SK: Mats;129;12926;Cabaroan;Finished;85;Families
+269;PRC;RELIEF;Non Food Items;SK: Mats;133;13310;Rimos #4;Finished;169;Families
+270;PRC;RELIEF;Non Food Items;SK: Mats;133;13310;Rimos #5;Finished;331;Families
+271;PRC;RELIEF;Non Food Items;SK: Mosquitio Nets;129;12914;Cagayungan;Finished;3;Families
+272;PRC;RELIEF;Non Food Items;SK: Mosquitio Nets;129;12914;San Antonio;Finished;6;Families
+273;PRC;RELIEF;Non Food Items;SK: Mosquitio Nets;129;12924;Villa Hermosa;Finished;2;Families
+274;PRC;RELIEF;Non Food Items;SK: Mosquitio Nets;129;12924;Saoat;Finished;32;Families
+275;PRC;RELIEF;Non Food Items;SK: Mosquitio Nets;129;12924;Quinsoriano;Finished;81;Families
+276;PRC;RELIEF;Non Food Items;SK: Mosquitio Nets;129;12924;Villa Hermosa;Finished;109;Families
+277;PRC;RELIEF;Non Food Items;SK: Mosquitio Nets;129;12926;Tinaan;Finished;20;Families
+278;PRC;RELIEF;Non Food Items;SK: Mosquitio Nets;129;12926;Cabaroan;Finished;85;Families
+279;PRC;RELIEF;Non Food Items;SK: Mosquitio Nets;133;13310;Rimos #4;Finished;169;Families
+280;PRC;RELIEF;Non Food Items;SK: Mosquitio Nets;133;13310;Rimos #5;Finished;331;Families
+281;PRC;WASH;WASH;Soap;129;12924;Saoat;Finished;32;Individuals
+282;PRC;WASH;WASH;Soap;129;12924;Quinsoriano;Finished;81;Individuals
+283;PRC;WASH;WASH;Soap;129;12924;Villa Hermosa;Finished;86;Individuals
+284;PRC;WASH;WASH;Soap;129;12926;Maynganay Norte;Finished;73;Individuals
+285;PRC;WASH;WASH;Soap;129;12926;Nagtupacan;Finished;98;Individuals
+286;PRC;WASH;WASH;Water;133;13305;Paraoir;Finished;3,000;Liters
+287;PRC;WASH;WASH;Water;133;13305;Paraoir;Finished;4,000;Liters
+288;PRC;WASH;WASH;Water;133;13306;Barraca;Finished;1,000;Liters
+289;PRC;WASH;WASH;Water;133;13306;Barraca;Finished;1,500;Liters
+290;PRC;WASH;WASH;Water;133;13306;Paratong #4;Finished;1,500;Liters
+291;PRC;WASH;WASH;Water;133;13306;Paratong #5;Finished;2,000;Liters
+292;PRC;WASH;WASH;Water;133;13306;Paratong #3;Finished;2,000;Liters
+293;PRC;WASH;WASH;Water;133;13306;Paratong Norte;Finished;2,000;Liters
+294;PRC;WASH;WASH;Water;133;13306;Alzate;Finished;2,000;Liters
+295;PRC;WASH;WASH;Water;133;13306;Caggao;Finished;2,000;Liters
+296;PRC;WASH;WASH;Water;133;13306;Paratong #4;Finished;3,000;Liters
+297;PRC;WASH;WASH;Water;133;13306;Quintarong;Finished;3,000;Liters
+298;PRC;WASH;WASH;Water;133;13306;Paratong #3;Finished;3,500;Liters
+299;PRC;WASH;WASH;Water;133;13306;Paratong Norte;Finished;3,500;Liters
+300;PRC;WASH;WASH;Water;133;13306;Nagsabaran;Finished;5,000;Liters
+301;PRC;WASH;WASH;Water;133;13306;Agdeppa;Finished;5,000;Liters
+302;PRC;WASH;WASH;Water;133;13306;Rissing;Finished;7,000;Liters
+303;PRC;WASH;WASH;Water;133;13310;Rimos #2;Finished;250;Liters
+304;PRC;WASH;WASH;Water;133;13310;Rimos #3;Finished;250;Liters
+305;PRC;WASH;WASH;Water;133;13310;Rimos #4;Finished;500;Liters
+306;PRC;WASH;WASH;Water;133;13310;Rimos #3;Finished;1,000;Liters
+307;PRC;WASH;WASH;Water;133;13310;Rimos #5;Finished;1,000;Liters
+308;PRC;WASH;WASH;Water;133;13310;Rimos #5;Finished;1,000;Liters
+309;PRC;WASH;WASH;Water;133;13310;Rimos #1;Finished;2,000;Liters
+310;PRC;WASH;WASH;Water;133;13310;Rimos #2;Finished;2,000;Liters
+311;PRC;WASH;WASH;Water;133;13310;Rimos #2;Finished;2,000;Liters
+312;PRC;WASH;WASH;Water;133;13310;Rimos #5;Finished;2,000;Liters
+313;PRC;WASH;WASH;Water;133;13310;Rimos #3;Finished;3,000;Liters
+314;PRC;WASH;WASH;Water;133;13310;Santo Domingo Norte;Finished;3,000;Liters
+315;PRC;WASH;WASH;Water;133;13310;Sto. Domingo Sur;Finished;3,000;Liters
+316;PRC;WASH;WASH;Water;133;13310;Rimos #5;Finished;4,000;Liters
+317;PRC;WASH;WASH;Water;133;13310;Rimos #4;Finished;6,000;Liters
+318;PRC;WASH;WASH;Water;133;13315;Bumbuneg;Finished;4,000;Liters
+319;PRC;WASH;WASH;Water;133;13315;Bucao;Finished;6,000;Liters
+320;PRC;WELFARE;Welfare;Welfare Desk;133;13310;;Finished;1;Station
+321;PRC;WELFARE;Welfare;Welfare Desk;133;13310;Rimos #5;Finished;1;Station
+322;PRC;WELFARE;Welfare;Welfare Desk;133;13310;Rimos #4;Finished;1;Station
